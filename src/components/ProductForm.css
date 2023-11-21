@@ -1,0 +1,6 @@
+/* src/components/ProductForm.css */
+.product-form-container {
+    max-height: 80vh; /* Atur ketinggian maksimum formulir sesuai kebutuhan */
+    overflow-y: auto; /* Tambahkan scrollbar jika formulir melebihi ketinggian maksimum */
+  }
+  

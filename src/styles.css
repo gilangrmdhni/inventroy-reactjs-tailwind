@@ -1,0 +1,6 @@
+/* src/styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Tambahkan gaya kustom atau penyesuaian lainnya di sini */

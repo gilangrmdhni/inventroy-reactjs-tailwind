@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Produk 1",
+      "sku": "SKU123",
+      "brand": "Brand A",
+      "description": "Deskripsi produk 1",
+      "variations": [
+        {
+          "id": 1,
+          "name": "Variasi 1",
+          "sku": "V123",
+          "price": 100
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Produk 2",
+      "sku": "SKU456",
+      "brand": "Brand B",
+      "description": "Deskripsi produk 2",
+      "variations": [
+        {
+          "id": 3,
+          "name": "Variasi 3",
+          "sku": "V789",
+          "price": 120
+        },
+        {
+          "id": 4,
+          "name": "Variasi 4",
+          "sku": "V101",
+          "price": 180
+        }
+      ]
+    },
+    {
+      "name": "asdasdas",
+      "sku": "V234",
+      "brand": "Brand B",
+      "description": "<p>asdasd</p>",
+      "variations": [
+        {
+          "id": 5,
+          "name": "Variasi 5",
+          "sku": "V101",
+          "price": 180
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "baju",
+      "sku": "basd",
+      "brand": "Brand A",
+      "description": "<p>asdasdasdasdasd</p>",
+      "variations": [
+        {
+          "name": "asdasdasd",
+          "sku": "asdasd",
+          "price": "2000"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "burger",
+      "sku": "V67234",
+      "brand": "food",
+      "description": "<p>asdasdasdasdasdasd</p>",
+      "variations": [
+        {
+          "name": "sadasd",
+          "sku": "V4345",
+          "price": "20000"
+        },
+        {
+          "name": "hehehheh",
+          "sku": "D9834",
+          "price": "3000"
+        },
+        {
+          "name": "vasvdhasd",
+          "sku": "V89234",
+          "price": "9000"
+        }
+      ],
+      "id": 9
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "Brand A"
+    },
+    {
+      "id": 2,
+      "name": "Brand B"
+    },
+    {
+      "id": 3,
+      "name": "Brand D"
+    },
+    {
+      "id": 4,
+      "name": "Brand D"
+    },
+    {
+      "name": "asdasdasd",
+      "id": 5
+    },
+    {
+      "name": "food",
+      "id": 6
+    }
+  ]
+}
